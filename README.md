@@ -26,6 +26,12 @@ It takes ~560 secs to render.
 ![complex_scene_2.png](https://i.loli.net/2019/01/15/5c3dcef4cf23e.png)
 
 ### Textures
+#### Light
+`scenes/legacy_scene.rs:legacy_scene_light
+`
+
+![legacy_scene_light.png](https://i.loli.net/2019/01/17/5c40577540f66.png)
+
 #### Checker Texture
 `scenes/legacy_scene.rs:legacy_scene_texture`
 
