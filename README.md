@@ -1,5 +1,7 @@
 # Spheres
 
+[![Build Status](https://www.travis-ci.org/m0dulo/Spheres.svg?branch=master)](https://www.travis-ci.org/m0dulo/Spheres)
+
 This is a new ray tracer program implemented in [Rust](https://www.rust-lang.org/en-US/) based on [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf) and [Ray Tracing: The Next Week](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf)
 
 [Ray Tracing Minibooks Book 1 on Amazon](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/)
