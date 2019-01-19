@@ -52,7 +52,7 @@ It takes ~560 secs to render.
    Here you can change `render_high_quality` to `render_preview` to render faster. And you can select from examples scenes by changing `self::scenes::****::****`.
 
    ```rust
-   render(world, camera, "scene.png", true)?;
+   render(hitable_list, camera, "scene.png", true)?;
    ```
    The third parameter indicates that with previous rendering settings, the image will be rendered to `/output`.
 
